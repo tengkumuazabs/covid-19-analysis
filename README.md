@@ -28,12 +28,12 @@ This Streamlit app provides spatial and temporal analysis of COVID-19 data world
 
 1. Install dependencies:
     ```bash
-    pip install streamlit pandas plotly streamlit-folium folium st_keyup
+    pip install -r requirements.txt
     ```
 
 2. Run the app:
     ```bash
-    streamlit run your_script_name.py
+    streamlit run app.py
     ```
 
 ---
