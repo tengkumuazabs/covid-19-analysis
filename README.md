@@ -1,6 +1,11 @@
 # Spatial Analysis on COVID-19
 
-This Streamlit app provides spatial and temporal analysis of COVID-19 data worldwide.
+## Web App
+
+You can visit the live Streamlit app here:  
+[https://covid-19-data-visualizer.streamlit.app/](https://covid-19-data-visualizer.streamlit.app/)
+
+*Note:* Due to inactivity, the app sometimes requires hitting the **Reboot** button to start again.
 
 ## Features
 
@@ -35,13 +40,6 @@ This Streamlit app provides spatial and temporal analysis of COVID-19 data world
     ```bash
     streamlit run app.py
     ```
-
-## Web App
-
-You can visit the live Streamlit app here:  
-[https://covid-19-data-visualizer.streamlit.app/](https://covid-19-data-visualizer.streamlit.app/)
-
-*Note:* Due to inactivity, the app sometimes requires hitting the **Reboot** button to start again.
 
 ---
 
