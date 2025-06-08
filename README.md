@@ -3,7 +3,7 @@
 ## Web App
 
 You can visit the live Streamlit app here:  
-[https://covid-19-data-visualizer.streamlit.app/](https://covid-19-data-visualizer.streamlit.app/)
+[https://covid-19-data-visualizer.streamlit.app](https://covid-19-data-visualizer.streamlit.app)
 
 *Note:* Due to inactivity, the app sometimes requires hitting the **Reboot** button to start again.
 
